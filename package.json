@@ -1,0 +1,23 @@
+{
+  "name": "ai-chat-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MahadevaPra/AI-chat-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MahadevaPra/AI-chat-bot/issues"
+  },
+  "homepage": "https://github.com/MahadevaPra/AI-chat-bot#readme",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1"
+  }
+}
